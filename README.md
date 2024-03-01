@@ -1,1 +1,0 @@
-# simpleHotel-project
